@@ -1,2 +1,3 @@
 
-	odeio bolo
+gosto de bolo
+>>>>>>> newbranch
